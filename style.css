@@ -151,10 +151,10 @@ button:hover > i{
 @media(max-width: 768px){
     .wsaicon-container{
          margin:30px 20px 10px 0px;
-        padding: 10px 20px 5px 180px;
+        padding: 10px 20px 5px 160px;
     }
     .wsa-icon{
-        padding-left: 100px;
+        padding-left: 80px;
     }
     .header-container{
         flex-direction: column;
@@ -172,8 +172,8 @@ button:hover > i{
         height: 100%;
     }
     .footer-name{
-        margin: 200px 0px 0px 0px;
-        padding: 110px 10px 0px 20px;
+        margin: 200px 150px 0px 0px;
+        padding: 100px 90px 20px 200px;
         text-align: center;
         font-size: 15px;
     }
