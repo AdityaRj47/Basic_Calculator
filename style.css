@@ -154,7 +154,7 @@ button:hover > i{
         padding: 10px 20px 5px 180px;
     }
     .wsa-icon{
-        padding-left: 120px;
+        padding-left: 100px;
     }
     .header-container{
         flex-direction: column;
@@ -166,14 +166,14 @@ button:hover > i{
         font-size: 35px;
     }
     .calculator-container{
-        padding-left: 120px;
+        padding-left: 100px;
         float: left;
         width: 90vw ;
         height: 100%;
     }
     .footer-name{
         margin: 200px 0px 0px 0px;
-        padding: 110px 10px 0px 0px;
+        padding: 110px 10px 0px 20px;
         text-align: center;
         font-size: 15px;
     }
